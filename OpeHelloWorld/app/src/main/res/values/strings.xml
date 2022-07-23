@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OpeHelloWorld</string>
+    <string name="text">Android is Awesome!</string>
 </resources>
